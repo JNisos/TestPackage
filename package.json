@@ -1,0 +1,13 @@
+{
+  "name": "com.testo.test",
+  "displayName": "Package Example",
+  "version": "1.0.0",
+  "description": "This is an example package",
+  "unity": "2022.3",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "category": "Unity"
+}
